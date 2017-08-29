@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bottom",
+				"FLIP_TOP_BOTTOM"
+			],
+			[
+				"subsubli",
+				"subsublist"
+			],
+			[
+				"tex",
+				"textureList"
+			],
+			[
+				"MA",
+				"MAP_WIDTH"
+			],
+			[
+				"GL",
+				"GL_PROJECTION"
+			],
+			[
+				"se",
+				"segmentLength"
+			],
+			[
+				"segment",
+				"segmentStart"
+			],
+			[
+				"row",
+				"rowList"
+			],
+			[
+				"wall",
+				"wallLength"
+			],
+			[
+				"binary",
+				"binaryComposite"
+			],
+			[
+				"main",
+				"mainMenu"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"set",
+				"setLayout"
+			],
+			[
+				"gradien",
+				"gradientSliders"
+			],
+			[
+				"grad",
+				"gradientSliders"
+			],
+			[
+				"display",
+				"displayHigh"
+			],
+			[
+				"sl",
+				"sliderLow"
+			],
+			[
+				"slider",
+				"sliderHigh"
+			],
+			[
+				"displ",
+				"displayHigh"
+			],
+			[
+				"add",
+				"addWidget"
+			],
+			[
+				"bina",
+				"binaryMag"
+			],
+			[
+				"exe",
+				"execLogic"
+			],
+			[
+				"Slider",
+				"SliderUnit"
+			],
+			[
+				"sli",
+				"sliderHigh"
+			],
+			[
+				"current",
+				"currentFunction"
+			],
+			[
+				"abs",
+				"absSobelThresh_Y"
+			],
+			[
+				"absSobel",
+				"absSobelThresh_X"
+			],
+			[
+				"curren",
+				"currentFunction"
+			],
+			[
+				"curre",
+				"currentFunction"
+			],
+			[
+				"lay",
+				"layoutSobely"
+			],
+			[
+				"layou",
+				"layoutGradMag"
+			],
+			[
+				"QV",
+				"QVBoxLayout"
+			],
+			[
+				"value",
+				"valueChange_imageCB"
+			],
+			[
+				"val",
+				"valueChange_imageCB"
+			],
+			[
+				"gray",
+				"gray_image"
+			],
+			[
+				"ad",
+				"adjust_threshold"
+			],
+			[
+				"outpu",
+				"output_stream"
+			],
+			[
+				"out",
+				"outputImage"
+			],
+			[
+				"saver",
+				"image_saver"
+			],
+			[
+				"right",
+				"right_cur"
+			],
+			[
+				"righ",
+				"right_str"
+			],
+			[
+				"left_",
+				"left_str"
+			],
+			[
+				"lef",
+				"left_curveRad"
+			],
+			[
+				"we",
+				"weightedImg"
+			],
+			[
+				"fi",
+				"fittedWindshield"
+			],
+			[
+				"image",
+				"image_rgb"
+			],
+			[
+				"prin",
+				"printStuff"
+			],
+			[
+				"colo",
+				"color_warp"
+			],
+			[
+				"im",
+				"imageWarper"
+			],
+			[
+				"binaryG",
+				"binaryGradx"
+			],
+			[
+				"binaryC",
+				"binaryComposite"
+			],
+			[
+				"imagre",
+				"image_bgr"
+			],
+			[
+				"sobe",
+				"sobelx"
+			],
+			[
+				"di",
+				"dir_binary"
+			],
+			[
+				"abs_sobel",
+				"abs_sobel_thresh"
+			],
+			[
+				"bin",
+				"binary_output"
+			],
+			[
+				"thre",
+				"thresh_min"
+			],
+			[
+				"cal",
+				"calibrateCamera"
+			],
+			[
+				"ob",
+				"objpoints"
+			],
+			[
+				"y_",
+				"y_train_aug"
+			],
+			[
+				"measu",
+				"measurements_flipped"
+			],
+			[
+				"meas",
+				"measurement_flipped"
+			],
+			[
+				"kernel",
+				"kernel_size"
+			],
+			[
+				"left",
+				"left_bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ascii_wall.py",
+			"settings":
+			{
+				"buffer_size": 7498,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ascii_light.py",
+			"settings":
+			{
+				"buffer_size": 4961,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "car.py",
+			"settings":
+			{
+				"buffer_size": 1385,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/martin/workspace/pyglet/heightmap.py",
+		"/home/martin/workspace/pyglet/3d_cube.py",
+		"/home/martin/workspace/pyglet/ascii2.py",
+		"/home/martin/workspace/pyglet/ascii.py",
+		"/home/martin/workspace/pyglet/depth_buffering.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/saver.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/tuning.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/tuningUI.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/sliderDemo.py",
+		"/home/martin/workspace/kanji/ui_classifier.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/main.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/laneFit.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/warper.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/gradients.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/colorAnalyser.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/gradientAnalyser.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/hls.py",
+		"/home/martin/workspace/sdc/05_Vehicle-Detection/main.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/tabAnalyzer.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/tabAnalyser.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/analyzer.py",
+		"/home/martin/Downloads/rsgalloway-QRangeSlider-2192c2b/qrangeslider.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/tuningPyQt.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/line.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/histogram.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/calibration.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/video.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/curvature.py",
+		"/home/martin/workspace/sdc/05_Vehicle-Detection/sliding_window.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/sdc4.sublime-workspace",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/sdc4.sublime-project",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/composite.py",
+		"/home/martin/workspace/elGamal/main.py",
+		"/home/martin/workspace/sdc/01_Lane-Lines/Lane_Detection.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/pipeline.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/warped.png",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/warp.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/binary.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/thresholds.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/polyfit.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/sliding_windows.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/mag_thresh.py",
+		"/home/martin/workspace/sdc/01_Lane-Lines/video_test.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/test2.py",
+		"/home/martin/workspace/sdc/04_Advanced-Lane-Lines/test.py",
+		"/home/martin/workspace/sdc/03_Behavioral-Cloning/data-dump/training.py",
+		"/home/martin/workspace/sdc/CarND-Advanced-Lane-Lines/calibration.py",
+		"/home/martin/workspace/sdc/CarND-Behavioral-Cloning-P3/drive.py",
+		"/home/martin/workspace/sdc/CarND-Advanced-Lane-Lines/test.py",
+		"/home/martin/workspace/sdc/CarND-Behavioral-Cloning-P3/data-dump/training.py",
+		"/home/martin/workspace/sdc/CarND-LaneLines-P1/Lane_Detection.py",
+		"/home/martin/workspace/sdc/CarND-Traffic-Sign-Classifier-Project/Traffic_Sign_Classifier.ipynb",
+		"/home/martin/workspace/sdc/CarND-Traffic-Sign-Classifier-Project/Traffic_Sign_Classifier.py",
+		"/home/martin/workspace/sdc/CarND-Behavioral-Cloning-P3/training.py",
+		"/home/martin/workspace/sdc/CarND-Behavioral-Cloning-P3/video.py",
+		"/home/martin/workspace/sdc/CarND-LaneLines-P1/test1.py",
+		"/home/martin/anaconda3/envs/sdc/lib/python3.6/site-packages/moviepy/audio/io/readers.py",
+		"/home/martin/workspace/sdc/CarND-LaneLines-P1/video_test.py",
+		"/home/martin/workspace/sdc/CarND-LaneLines-P1/test2.py",
+		"/home/martin/workspace/sdc/CarND-LaneLines-P1/exit-ramp.py",
+		"/home/martin/.bashrc",
+		"/home/martin/workspace/sdc/CarND-LaneLines-P1/writeup_template.md",
+		"/home/martin/workspace/sdc/CarND-LaneLines-P1/P1.ipynb",
+		"/home/martin/Downloads/start-tor-browser.desktop"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"window",
+			"pipeline.",
+			"h_",
+			"flag",
+			"HLS_Channel_L = partial(HLS_Channel, channel='l')\n",
+			"channel",
+			"self.currentindex",
+			"label",
+			")\n",
+			"resize",
+			"update",
+			"resizeIma",
+			"get",
+			"process",
+			"mini",
+			"print",
+			"peint",
+			"poly",
+			"right_fit",
+			"binary_warped",
+			", ",
+			"'.')\n",
+			"readim",
+			"lab",
+			"gray"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ascii_wall.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ascii_light.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "car.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1044,
+								1044
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pyglet.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/sdc/04_Advanced-Lane-Lines/sdc4.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
