@@ -7,7 +7,7 @@ from pyglet.gl import *
 from pyglet.window import key
 
 import re
-
+import time
 
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 600
@@ -156,7 +156,7 @@ class Window(pyglet.window.Window):
     #zRotation = 0
     xTranslation = 0
     yTranslation = 0
-    zTranslation = 0
+    zTranslation = -10
 
     def __init__(self, width, height, title=''):
         super(Window, self).__init__(width, height, title)
@@ -182,22 +182,34 @@ class Window(pyglet.window.Window):
     def on_draw(self):
         # Clear the current GL Window
         self.clear()
+        glMatrixMode(GL_MODELVIEW)
         gl.glColor3f(155,155,155)
 
-        #glMatrixMode(GL_MODELVIEW)
-        #glMatrixMode(GL_PROJECTION)
-        glRotatef(self.xRotation, 1, 0, 0)
-        glRotatef(self.yRotation, 0, 1, 0)
-        
-        glMatrixMode(GL_PROJECTION)
+
+        glLoadIdentity()
         glTranslatef(self.xTranslation, 0, 0)
         glTranslatef(0, self.yTranslation, 0)
         glTranslatef(0, 0, self.zTranslation)
+        
+        glRotatef(self.xRotation, 1, 0, 0)
+        glRotatef(self.yRotation, 0, 1, 0)
+        
+        #glRotatef(self.yRotation,0,1,0)
+        #glTranslatef(0,0,self.zTranslation)
 
+        #glPushMatrix()
+        """
+        glBegin(GL_TRIANGLES)
+        glVertex4f(1,0,0,1)
+        glVertex4f(0,1,0,1)
+        glVertex4f(0,0,0,1)
+        glEnd()
+        """
+        #glPopMatrix()
+        
         glMaterialfv(GL_FRONT_AND_BACK, GL_AMBIENT, (GLfloat*3) (.7,.7,.7))
         for vc, tc, nc in zip(vertexList, textureList, normalList):
             pyglet.graphics.draw(len(vc)//3, gl.GL_QUADS, ('v3f', vc ), ('t2f', tc), ('n3f', nc))
-
         
 
 
@@ -211,9 +223,9 @@ class Window(pyglet.window.Window):
         aspectRatio = width / height
         gluPerspective(35, aspectRatio, 1, 1000)
 
-        glMatrixMode(GL_MODELVIEW)
-        glLoadIdentity()
-        glTranslatef(-0.5, -0.5, -5)
+        #glMatrixMode(GL_MODELVIEW)
+        #glLoadIdentity()
+        #glTranslatef(0., 0., -1)
 
 
     def on_text_motion(self, motion):
@@ -251,7 +263,7 @@ def update(dt):
             
 if __name__ == '__main__':
     Window(WINDOW_WIDTH, WINDOW_HEIGHT, 'Stuff')
-    pyglet.clock.schedule_interval(update,1/60.0)
+    pyglet.clock.schedule_interval(update, 1/60.)
     pyglet.app.run()
 
 
